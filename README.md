@@ -5,6 +5,6 @@ My name is Mohammad Al-Shalabi and I am Computer Engineering student based in GT
 Skills: Java | Python | C | HTML | CSS | Javascript | JavaFX
 
 - 🔭 I’m currently working on creating a web application to solve a problem faced today
-- 🌱 I’m currently learning react and python
+- 🌱 I’m currently learning React and Python
 - 💬 Ask me about Algorithms and Data Structures
-- ⚡ Fun fact: I lived in egypt for 9 years of my life !!
+- ⚡ Fun fact: I lived in Egypt for 9 years of my life !!
